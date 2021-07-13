@@ -30,7 +30,7 @@
 ### 👨🏻‍💻 &nbsp;Tech Stack:
 
 <br/>
-<h4 align="center"><strong>Skill</p>
+<h3 align="center"><strong>Skill</p>
 <div align="center">
     <img src="https://img.shields.io/static/v1?logo=unity&message=Unity&color=00122A&label=%20&style=plastic">
     <img src="https://img.shields.io/static/v1?logo=csharp&message=C%23&color=00122A&label=%20&style=plastic">
