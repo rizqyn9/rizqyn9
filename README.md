@@ -7,7 +7,6 @@
 </div>
 
 <hr>
-<br/>
 <!-- <div>
     <h2 align="center">👨🏻‍💻 &nbsp;About Me</h2>
 </div> -->
@@ -91,7 +90,7 @@
 </div>
 
 <br/>
-<p align="center"><strong>TOOL</p>
+<p align="center"><strong>Tools</p>
 <div align="center">
     <img src="https://img.shields.io/static/v1?logo=powershell&message=PowerShell&color=00122A&logoColor=white&style=plastic&label=%20">
     <img src="https://img.shields.io/static/v1?logo=git&message=Git&color=00122A&style=plastic&label=%20">
