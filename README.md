@@ -1,4 +1,4 @@
-
+<link href="readme.css" rel="stylesheet"></link>
 <div align="center">
 	<h1>👋 &nbsp;Hey there! I'm Rizqy Prastya</h1>
 	<a href="http://portfolio.rbot-rizqy.online" target="_blank">Visit My Portfolio</a>
