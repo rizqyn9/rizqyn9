@@ -1,4 +1,12 @@
-## 👋 &nbsp;Hey there! I'm Rizqy Prastya
+
+<div align="center">
+	<h1>👋 &nbsp;Hey there! I'm Rizqy Prastya</h1>
+	<a href="http://portfolio.rbot-rizqy.online" target="_blank">Visit My Portfolio</a>
+	<br />
+	<br />
+	<img src="https://visitor-badge.glitch.me/badge?page_id=rizqyn9.rizqyn9"/>
+	
+</div>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -38,13 +46,16 @@
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
 ### 🐱 &nbsp;My Github stats:
-<a href="https://github.com/Davekibh">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=rizqyn9&show_icons=true&theme=tokyonight&line_height=27" alt="Rizqy's github stats"/>
-</a>
-<a href="https://github.com/Davekibh">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizqyn9&theme=tokyonight" />
-</a>
+<div align="center" style="display:flexbox;">
+  <a href="https://github.com/Davekibh">
+   	<img height="250" src="https://github-readme-stats.vercel.app/api?username=rizqyn9&show_icons=true&theme=tokyonight&line_height=27" alt="Rizqy's github stats"/>
+  </a>
+  <a href="https://github.com/Davekibh">
+    <img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizqyn9&theme=tokyonight" />
+  </a>
+</div>
 
+---
 
 ### 🤝🏻 &nbsp;Connect with Me
 
