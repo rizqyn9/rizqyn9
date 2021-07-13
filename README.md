@@ -1,15 +1,19 @@
-<link href="https://raw.githubusercontent.com/rizqyn9/rizqyn9/master/readme.css" rel="stylesheet"></link>
 <div align="center">
 	<h1>👋 &nbsp;Hey there! I'm Rizqy Prastya</h1>
 	<a href="http://portfolio.rbot-rizqy.online" target="_blank">Visit My Portfolio</a>
 	<br />
 	<br />
 	<img src="https://visitor-badge.glitch.me/badge?page_id=rizqyn9.rizqyn9"/>
-	
 </div>
 
-### 👨🏻‍💻 &nbsp;About Me
+<hr>
+<br/>
+<!-- <div>
+    <h2 align="center">👨🏻‍💻 &nbsp;About Me</h2>
+</div> -->
 
+### 👨🏻‍💻 &nbsp;About Me
+\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
@@ -20,8 +24,13 @@
 📚 I’m currently learning everything about Frontend and Backend technologies 😅\
 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
+<hr>
+<br>
+
+### 👨🏻‍💻 &nbsp;Tech Stack:
+
 <br/>
-<h2 align="center"><strong>Skill</p>
+<h4 align="center"><strong>Skill</p>
 <div align="center">
     <img src="https://img.shields.io/static/v1?logo=unity&message=Unity&color=00122A&label=%20&style=plastic">
     <img src="https://img.shields.io/static/v1?logo=csharp&message=C%23&color=00122A&label=%20&style=plastic">
@@ -95,10 +104,13 @@
     <img src="https://img.shields.io/static/v1?logo=filezilla&message=FileZilla&color=00122A&label=%20&style=plastic">
 </div>
 
+<hr>
+<br>
+<!-- <div>
+    <h2 align="center">🐱 &nbsp;My Github stats
+</div> -->
 
-
-
-### 🐱 &nbsp;My Github stats:
+### 🐱 &nbsp;My Github stats
 <div align="center" style="display:flexbox;">
   <a href="https://github.com/Davekibh">
    	<img height="200" src="https://github-readme-stats.vercel.app/api?username=rizqyn9&show_icons=true&theme=tokyonight&line_height=27" alt="Rizqy's github stats"/>
@@ -108,18 +120,21 @@
   </a>
 </div>
 
----
+<hr>
+<br>
+<!-- <div>
+    <h2 align="center">🤝🏻 &nbsp;Connect with Me
+</div> -->
 
 ### 🤝🏻 &nbsp;Connect with Me
-
 <p align="center">
-<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
+    <a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+    <a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+    <a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+    <a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+    <a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+    <a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
+    <a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
 </p>
 
 -----
