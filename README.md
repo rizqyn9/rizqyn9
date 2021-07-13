@@ -1,4 +1,4 @@
-<link href="readme.css" rel="stylesheet"></link>
+<link href="https://raw.githubusercontent.com/rizqyn9/rizqyn9/master/readme.css" rel="stylesheet"></link>
 <div align="center">
 	<h1>👋 &nbsp;Hey there! I'm Rizqy Prastya</h1>
 	<a href="http://portfolio.rbot-rizqy.online" target="_blank">Visit My Portfolio</a>
@@ -21,13 +21,13 @@
 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.\
 
 ### 🛠 &nbsp;Tech Stack
-<div align="center">
+
 ![JavaScript](https://img.shields.io/static/v1?label=%20&message=JavaScript&color=00122A&logo=javascript&style=plastic)&nbsp;
 ![C#](https://img.shields.io/static/v1?logo=csharp&message=C%23&color=00122A&label=%20&style=plastic)&nbsp;
 ![HTML5](https://img.shields.io/static/v1?logo=html5&message=HTML5&color=00122A&style=plastic&label=%20)&nbsp;
 ![CSS3](https://img.shields.io/static/v1?logo=CSS3&message=css3&color=00122A&style=plastic&label=%20)&nbsp;
 ![JSON](https://img.shields.io/static/v1?logo=json&message=JSON&color=00122A&label=%20&style=plastic)&nbsp;
-</div>
+
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/static/v1?label=%20&message=JavaScript&color=00122A&logo=javascript&style=plastic)&nbsp;
 ![SASS](https://img.shields.io/static/v1?logo=sass&message=SASS&color=00122A&style=plastic&label=%20)&nbsp;
