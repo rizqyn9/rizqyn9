@@ -15,14 +15,10 @@
 ### 👨🏻‍💻 &nbsp;About Me
 \
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!\
-👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.\
-📚 I’m currently learning everything about Frontend and Backend technologies 😅\
-💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+🎓 &nbsp;I'm currently studying Game Tech in Multimedia Trainning Centre (MMTC) Yogyakarta.\
+📚 &nbsp;I’m currently learning everything about Server Scalling, Frontend and Backend technologies.\
+👨‍💻 &nbsp;I’m currently working on web development technologies like JavaScript, React etc.\
+💪🏼 &nbsp;Future Goals: Learn more technologies - Never stop creating new ideas.
 
 <hr>
 <br>
