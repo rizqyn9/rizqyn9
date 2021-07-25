@@ -1,6 +1,8 @@
 <div align="center">
 	<h1>👋 &nbsp;Hey there! I'm Rizqy Prastya</h1>
 	<a href="https://portfolio.rbot-rizqy.online" target="_blank"><h2>Visit My Portfolio</a>
+	<br />
+	<h3>
 	<a href="http://portfolio.rbot-rizqy.online/CV_RizqyPrastyaAriNugroho.pdf" target="_blank">Get my CV</a>
 	<br />
 	<br />
