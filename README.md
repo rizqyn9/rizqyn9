@@ -32,7 +32,7 @@
 <div align="center">
     <img src="https://img.shields.io/static/v1?logo=unity&message=Unity&color=00122A&label=%20&style=plastic">
     <img src="https://img.shields.io/static/v1?logo=csharp&message=C%23&color=00122A&label=%20&style=plastic">
-    <img src="https://img.shields.io/static/v1?logo=TypeScript&message=C%23&color=00122A&label=%20&style=plastic">
+    <img src="https://img.shields.io/static/v1?logo=TypeScript&message=TypeScript&color=00122A&label=%20&style=plastic">
     <img src="https://img.shields.io/static/v1?label=%20&message=JavaScript&color=00122A&logo=javascript&style=plastic">
     <img src="https://img.shields.io/static/v1?logo=html5&message=HTML5&color=00122A&style=plastic&label=%20">
     <img src="https://img.shields.io/static/v1?logo=CSS3&message=CSS3&color=00122A&style=plastic&label=%20">
