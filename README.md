@@ -64,7 +64,10 @@
     <br />
     <img src="https://img.shields.io/static/v1?logo=pm2&message=PM2&color=00122A&style=plastic&label=%20">
     <img src="https://img.shields.io/static/v1?logo=nginx&message=Nginx&color=00122A&label=%20&style=plastic">
+    <br />
     <img src="https://img.shields.io/static/v1?logo=docker&message=Docker&color=00122A&label=%20&style=plastic">
+    <img src="https://img.shields.io/static/v1?logo=ansible&message=Ansible&color=00122A&label=%20&style=plastic">
+    <img src="https://img.shields.io/static/v1?logo=terraform&message=Terraform&color=00122A&label=%20&style=plastic">
     <img src="https://img.shields.io/static/v1?logo=kubernetes&message=Kubernetes&color=00122A&logoColor=white&label=%20&style=plastic">
     <br />
     <img src="https://img.shields.io/static/v1?logo=microsoftazure&message=Azure&color=00122A&logoColor=white&label=%20&style=plastic">
@@ -93,6 +96,8 @@
 <p align="center"><strong>Tools</p>
 <div align="center">
     <img src="https://img.shields.io/static/v1?logo=powershell&message=PowerShell&color=00122A&logoColor=white&style=plastic&label=%20">
+    <img src="https://img.shields.io/static/v1?logo=hyper&message=Hyper&color=00122A&logoColor=white&style=plastic&label=%20">
+    <img src="https://img.shields.io/static/v1?logo=iterm2&message=iTerm2&color=00122A&logoColor=white&style=plastic&label=%20">
     <img src="https://img.shields.io/static/v1?logo=git&message=Git&color=00122A&style=plastic&label=%20">
     <img src="https://img.shields.io/static/v1?logo=vim&message=Vim&color=00122A&label=%20&style=plastic">
     <img src="https://img.shields.io/static/v1?logo=visualstudio&message=VisualStudio&color=00122A&label=%20&style=plastic">
