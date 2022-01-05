@@ -132,7 +132,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="center">
-    <a href="https://portfolio.rbot-rizqy.online"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+    <a href="https://portfolio-rizqyn9.vercel.app/work"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
     <a href="https://linkedin.com/in/rizqynugroho9"><img src="https://img.shields.io/badge/-RizqyNugroho-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
     <a href="mailto:rizqynugroho9@gmail.com"><img src="https://img.shields.io/badge/-rizqynugroho9@gmai.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
     <a href="https://instagram.com/rizqy.pan"><img src="https://img.shields.io/badge/-rizqy.pan-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
