@@ -116,10 +116,10 @@
 
 ### 🐱 &nbsp;My Github stats
 <div align="center" style="display:flexbox;">
-  <a href="https://github.com/Davekibh">
+  <a href="https://github.com/rizqyn9">
    	<img height="200" src="https://github-readme-stats.vercel.app/api?username=rizqyn9&show_icons=true&theme=tokyonight&line_height=27" alt="Rizqy's github stats"/>
   </a>
-  <a href="https://github.com/Davekibh">
+  <a href="https://github.com/rizqyn9">
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizqyn9&theme=tokyonight" />
   </a>
 </div>
