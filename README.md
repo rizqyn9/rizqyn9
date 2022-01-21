@@ -1,9 +1,9 @@
 <div align="center">
 	<h1>👋 &nbsp;Hey there! I'm Rizqy Prastya</h1>
-	<a href="https://portfolio.rbot-rizqy.online" target="_blank"><h2>Visit My Portfolio</a>
+	<a href="https://portfolio-rizqyn9.vercel.app" target="_blank"><h2>Visit My Portfolio</a>
 	<br />
 	<h3>
-	<a href="http://portfolio.rbot-rizqy.online/CV_RizqyPrastyaAriNugroho.pdf" target="_blank">Get my CV</a>
+	<a href="https://portfolio-rizqyn9.vercel.app/CV_RizqyPrastyaAriNugroho.pdf" target="_blank">Get my CV</a>
 	<br />
 	<br />
 	<img src="https://visitor-badge.glitch.me/badge?page_id=rizqyn9.rizqyn9"/>
@@ -132,7 +132,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="center">
-    <a href="https://portfolio-rizqyn9.vercel.app/work"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+    <a href="https://portfolio-rizqyn9.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
     <a href="https://linkedin.com/in/rizqynugroho9"><img src="https://img.shields.io/badge/-RizqyNugroho-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
     <a href="mailto:rizqynugroho9@gmail.com"><img src="https://img.shields.io/badge/-rizqynugroho9@gmai.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
     <a href="https://instagram.com/rizqy.pan"><img src="https://img.shields.io/badge/-rizqy.pan-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
