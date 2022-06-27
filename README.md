@@ -31,6 +31,7 @@
 <h3 align="center"><strong>Skill</p>
 <div align="center">
     <img src="https://img.shields.io/static/v1?logo=unity&message=Unity&color=00122A&label=%20&style=plastic">
+	<img src="https://img.shields.io/static/v1?logo=deno&message=Deno&color=00122A&label=%20&style=plastic">
     <img src="https://img.shields.io/static/v1?logo=csharp&message=C%23&color=00122A&label=%20&style=plastic">
     <img src="https://img.shields.io/static/v1?logo=TypeScript&message=TypeScript&color=00122A&label=%20&style=plastic">
     <img src="https://img.shields.io/static/v1?label=%20&message=JavaScript&color=00122A&logo=javascript&style=plastic">
@@ -44,6 +45,7 @@
 <div align="center">
     <img src="https://img.shields.io/static/v1?logo=react&message=React&color=00122A&style=plastic&label=%20">
     <img src="https://img.shields.io/static/v1?logo=nextdotjs&message=Next.js&color=00122A&label=%20&style=plastic">
+        <img src="https://img.shields.io/static/v1?logo=remix&message=Remix&color=00122A&label=%20&style=plastic">
     <img src="https://img.shields.io/static/v1?logo=redux&message=Redux&color=00122A&style=plastic&label=%20">
     <img src="https://img.shields.io/static/v1?logo=Framer&message=Framer&color=00122A&label=%20&style=plastic">
     <br />
