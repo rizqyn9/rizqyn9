@@ -1,10 +1,9 @@
 <div align="center">
 	<h1>👋 &nbsp;Hey there! I'm Rizqy Prastya</h1>
-	<a href="https://portfolio-rizqyn9.vercel.app" target="_blank"><h2>Visit My Portfolio V1</a>
-	<a href="https://rizqydev.vercel.app" target="_blank"><h2>Visit My Portfolio V2</a>
+	<a href="https://rdev.space" target="_blank"><h2>Visit My Portfolio</a>
 	<br />
-	<h3>
-	<a href="https://portfolio-rizqyn9.vercel.app/CV_RizqyPrastyaAriNugroho.pdf" target="_blank">Get my CV</a>
+	<br />
+	<a href="https://rdev.space/resume-rizqy-prastya-ari-nugoroho.pdf" target="_blank" download>Get My Resume</a>
 	<br />
 	<br />
 	<img src="https://visitor-badge.glitch.me/badge?page_id=rizqyn9.rizqyn9"/>
