@@ -1,6 +1,10 @@
 <div align="center">
 	<h1>👋 &nbsp;Hey there! I'm Rizqy Prastya</h1>
-	<a href="https://rdev.space" target="_blank"><h2>Visit My Portfolio</h2></a>
+	<a href="https://rdev.space" target="_blank">
+		<h2
+			>Visit My Portfolio
+		</h2>
+	</a>
 	<br />
 	<br />
 	<a href="https://rdev.space/resume-rizqy-prastya-ari-nugoroho.pdf" target="_blank" download>Get My Resume</a>
