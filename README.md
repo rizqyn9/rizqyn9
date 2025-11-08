@@ -1,9 +1,9 @@
 <div align="center">
 	<h1>👋 &nbsp;Hey there! I'm Rizqy Prastya</h1>
-	<a href="https://rdev.space" target="_blank">Visit My Portfolio</a>
+	<a href="https://rizeforge.com" target="_blank">Visit My Portfolio</a>
 	<br />
 	<br />
-	<a href="https://rdev.space/resume-rizqy-prastya-ari-nugoroho.pdf" target="_blank" download>Get My Resume</a>
+	<a href="https://rizeforge.com/resume-rizqy.pdf" target="_blank" download>Get My Resume</a>
 	<br />
 	<br />
 	<img src="https://visitor-badge.glitch.me/badge?page_id=rizqyn9.rizqyn9"/>
