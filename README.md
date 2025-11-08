@@ -10,9 +10,6 @@
 </div>
 
 <hr>
-<!-- <div>
-    <h2 align="center">👨🏻‍💻 &nbsp;About Me</h2>
-</div> -->
 <br/>
 
 ### 👨🏻‍💻 &nbsp;About Me
@@ -113,9 +110,6 @@
 
 <hr>
 <br>
-<!-- <div>
-    <h2 align="center">🐱 &nbsp;My Github stats
-</div> -->
 
 ### 🐱 &nbsp;My Github stats
 <div align="center" style="display:flexbox;">
@@ -129,17 +123,12 @@
 
 <hr>
 <br>
-<!-- <div>
-    <h2 align="center">🤝🏻 &nbsp;Connect with Me
-</div> -->
 
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="center">
-    <a href="https://portfolio-rizqyn9.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+    <a href="https://rizeforge.com"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
     <a href="https://linkedin.com/in/rizqynugroho9"><img src="https://img.shields.io/badge/-RizqyNugroho-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
     <a href="mailto:rizqynugroho9@gmail.com"><img src="https://img.shields.io/badge/-rizqynugroho9@gmai.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-    <a href="https://instagram.com/rizqy.pan"><img src="https://img.shields.io/badge/-rizqy.pan-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-    <a href="https://facebook.com/rizqynugroho22"><img src="https://img.shields.io/badge/-RizqyNugroho-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
 -----
