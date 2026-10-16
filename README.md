@@ -1,134 +1,92 @@
-<div align="center">
-	<h1>👋 &nbsp;Hey there! I'm Rizqy Prastya</h1>
-	<a href="https://rizeforge.com" target="_blank">Visit My Portfolio</a>
-	<br />
-	<br />
-	<a href="https://rizeforge.com/resume-rizqy.pdf" target="_blank" download>Get My Resume</a>
-	<br />
-	<br />
-	<img src="https://visitor-badge.glitch.me/badge?page_id=rizqyn9.rizqyn9"/>
-</div>
+# Rizqy Prastya Ari Nugroho
 
-<hr>
-<br/>
+**Full-Stack Engineer | Backend Engineering | Cloud & DevOps**
 
-### 👨🏻‍💻 &nbsp;About Me
-\
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Game Tech in Multimedia Trainning Centre (MMTC) Yogyakarta.\
-📚 &nbsp;I’m currently learning everything about Server Scalling, Frontend and Backend technologies.\
-👨‍💻 &nbsp;I’m currently working on web development technologies like JavaScript, React etc.\
-💪🏼 &nbsp;Future Goals: Learn more technologies - Never stop creating new ideas.
+I build web applications, backend services, and cloud infrastructure. I enjoy exploring new technologies, designing practical systems, and improving the way software is developed, deployed, and operated.
 
-<hr>
-<br>
+[Portfolio](https://rizeforge.com) · [Resume](https://rizeforge.com/resume-rizqy.pdf) · [LinkedIn](https://linkedin.com/in/rizqynugroho9) · [Email](mailto:rizqynugroho9@gmail.com)
 
-### 👨🏻‍💻 &nbsp;Tech Stack:
+---
 
-<h3 align="center"><strong>Skill</p>
-<div align="center">
-    <img src="https://img.shields.io/static/v1?logo=unity&message=Unity&color=00122A&label=%20&style=plastic">
-	<img src="https://img.shields.io/static/v1?logo=deno&message=Deno&color=00122A&label=%20&style=plastic">
-		<img src="https://img.shields.io/static/v1?logo=go&message=Go&color=00122A&label=%20&style=plastic">
-    <img src="https://img.shields.io/static/v1?logo=csharp&message=C%23&color=00122A&label=%20&style=plastic">
-    <img src="https://img.shields.io/static/v1?logo=TypeScript&message=TypeScript&color=00122A&label=%20&style=plastic">
-    <img src="https://img.shields.io/static/v1?label=%20&message=JavaScript&color=00122A&logo=javascript&style=plastic">
-    <img src="https://img.shields.io/static/v1?logo=html5&message=HTML5&color=00122A&style=plastic&label=%20">
-    <img src="https://img.shields.io/static/v1?logo=CSS3&message=CSS3&color=00122A&style=plastic&label=%20">
-    <img src="https://img.shields.io/static/v1?logo=json&message=JSON&color=00122A&label=%20&style=plastic">
-</div>
+## About Me
 
-<br/>
-<p align="center"><strong>Frontend</p>
-<div align="center">
-    <img src="https://img.shields.io/static/v1?logo=react&message=React&color=00122A&style=plastic&label=%20">
-    <img src="https://img.shields.io/static/v1?logo=nextdotjs&message=Next.js&color=00122A&label=%20&style=plastic">
-        <img src="https://img.shields.io/static/v1?logo=remix&message=Remix&color=00122A&label=%20&style=plastic">
-    <img src="https://img.shields.io/static/v1?logo=redux&message=Redux&color=00122A&style=plastic&label=%20">
-    <img src="https://img.shields.io/static/v1?logo=Framer&message=Framer&color=00122A&label=%20&style=plastic">
-    <br />
-    <img src="https://img.shields.io/static/v1?logo=tailwindcss&message=Tailwind&color=00122A&label=%20&style=plastic">
-    <img src="https://img.shields.io/static/v1?logo=sass&message=SASS&color=00122A&style=plastic&label=%20">
-    <img src="https://img.shields.io/static/v1?logo=postcss&message=PostCSS&color=00122A&logoColor=white&style=plastic&label=%20">
-    <img src="https://img.shields.io/static/v1?logo=threedotjs&message=Three.js&color=00122A&style=plastic&label=%20">
-    <img src="https://img.shields.io/static/v1?logo=p5dotjs&message=p5.js&color=00122A&style=plastic&label=%20">
-    <img src="https://img.shields.io/static/v1?logo=alpinedotjs&message=Alpine.js&color=00122A&label=%20&style=plastic">
-    <img src="https://img.shields.io/static/v1?logo=webgl&message=WebGL&color=00122A&label=%20&style=plastic">
-</div>
+- **Full-stack development:** Building web applications and APIs with modern JavaScript and TypeScript ecosystems.
+- **Backend engineering:** Designing services, data models, APIs, and distributed system integrations.
+- **Cloud & DevOps:** Working with cloud platforms, containers, orchestration, infrastructure as code, and observability.
+- **Engineering interests:** System design, developer tooling, automation, and reliable software delivery.
 
-<br/>
-<p align="center"><strong>Automation, Environment, & Deployment</p>
-<div align="center">
-    <img src="https://img.shields.io/static/v1?logo=jenkins&message=Jenkins&color=00122A&style=plastic&label=%20">
-    <img src="https://img.shields.io/static/v1?logo=jest&message=Jest&color=00122A&label=%20&style=plastic">
-    <br />
-    <img src="https://img.shields.io/static/v1?logo=pm2&message=PM2&color=00122A&style=plastic&label=%20">
-    <img src="https://img.shields.io/static/v1?logo=nginx&message=Nginx&color=00122A&label=%20&style=plastic">
-    <br />
-    <img src="https://img.shields.io/static/v1?logo=docker&message=Docker&color=00122A&label=%20&style=plastic">
-    <img src="https://img.shields.io/static/v1?logo=ansible&message=Ansible&color=00122A&label=%20&style=plastic">
-    <img src="https://img.shields.io/static/v1?logo=terraform&message=Terraform&color=00122A&label=%20&style=plastic">
-    <img src="https://img.shields.io/static/v1?logo=kubernetes&message=Kubernetes&color=00122A&logoColor=white&label=%20&style=plastic">
-    <br />
-    <img src="https://img.shields.io/static/v1?logo=microsoftazure&message=Azure&color=00122A&logoColor=white&label=%20&style=plastic">
-    <img src="https://img.shields.io/static/v1?logo=amazonaws&message=AWS&color=00122A&label=%20&style=plastic">
-    <img src="https://img.shields.io/static/v1?logo=digitalocean&message=DigitalOcean&color=00122A&label=%20&style=plastic">
-</div>
+I value pragmatic engineering, maintainable code, and solutions that balance simplicity, reliability, and cost.
 
-<br/>
-<p align="center"><strong>Databases Management System</p>
-<div align="center">
-    <img src="https://img.shields.io/static/v1?logo=mongodb&message=MongoDB&color=00122A&style=plastic&label=%20">
-    <img src="https://img.shields.io/static/v1?logo=postgresql&message=PostgreSQL&color=00122A&logoColor=white&style=plastic&label=%20">
-    <img src="https://img.shields.io/static/v1?logo=redis&message=Redis&color=00122A&label=%20&style=plastic">
-</div>
+## Technology Stack
 
-<br/>
-<p align="center"><strong>Backend</p>
-<div align="center">
-    <img src="https://img.shields.io/static/v1?logo=nodedotjs&message=Node.js&color=00122A&label=%20&style=plastic">
-    <img src="https://img.shields.io/static/v1?logo=npm&message=npm&color=00122A&label=%20&style=plastic">
-    <img src="https://img.shields.io/static/v1?logo=yarn&message=Yarn&color=00122A&label=%20&style=plastic">
-    <img src="https://img.shields.io/static/v1?logo=express&message=Express.js&color=00122A&label=%20&style=plastic">
-</div>
+### Languages
 
-<br/>
-<p align="center"><strong>Tools</p>
-<div align="center">
-    <img src="https://img.shields.io/static/v1?logo=powershell&message=PowerShell&color=00122A&logoColor=white&style=plastic&label=%20">
-    <img src="https://img.shields.io/static/v1?logo=hyper&message=Hyper&color=00122A&logoColor=white&style=plastic&label=%20">
-    <img src="https://img.shields.io/static/v1?logo=iterm2&message=iTerm2&color=00122A&logoColor=white&style=plastic&label=%20">
-    <img src="https://img.shields.io/static/v1?logo=git&message=Git&color=00122A&style=plastic&label=%20">
-    <img src="https://img.shields.io/static/v1?logo=vim&message=Vim&color=00122A&label=%20&style=plastic">
-    <img src="https://img.shields.io/static/v1?logo=visualstudio&message=VisualStudio&color=00122A&label=%20&style=plastic">
-    <img src="https://img.shields.io/static/v1?logo=visualstudiocode&message=VisualStudioCode&color=00122A&label=%20&style=plastic">
-    <img src="https://img.shields.io/static/v1?logo=miro&message=Miro&color=00122A&label=%20&style=plastic">
-    <img src="https://img.shields.io/static/v1?logo=markdown&message=Markdown&color=00122A&label=%20&style=plastic">
-    <img src="https://img.shields.io/static/v1?logo=homebrew&message=HomeBrew&color=00122A&style=plastic&label=%20">
-    <img src="https://img.shields.io/static/v1?logo=filezilla&message=FileZilla&color=00122A&label=%20&style=plastic">
-</div>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-<hr>
-<br>
+### Frontend & Mobile
 
-### 🐱 &nbsp;My Github stats
-<div align="center" style="display:flexbox;">
-  <a href="https://github.com/rizqyn9">
-   	<img height="200" src="https://github-readme-stats.vercel.app/api?username=rizqyn9&show_icons=true&theme=tokyonight&line_height=27" alt="Rizqy's github stats"/>
-  </a>
-  <a href="https://github.com/rizqyn9">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizqyn9&theme=tokyonight" />
-  </a>
-</div>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-<hr>
-<br>
+### Backend & APIs
 
-### 🤝🏻 &nbsp;Connect with Me
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white)
+
+### Databases & Messaging
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![NATS](https://img.shields.io/badge/NATS-27AAE1?style=flat-square&logo=natsdotio&logoColor=white)
+
+### Cloud, DevOps & Observability
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+
+### Tools & Workflow
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Vim](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white)
+
+## GitHub Overview
+
 <p align="center">
-    <a href="https://rizeforge.com"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-    <a href="https://linkedin.com/in/rizqynugroho9"><img src="https://img.shields.io/badge/-RizqyNugroho-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-    <a href="mailto:rizqynugroho9@gmail.com"><img src="https://img.shields.io/badge/-rizqynugroho9@gmai.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rizqyn9&show_icons=true&hide_border=true&theme=transparent" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizqyn9&layout=compact&hide_border=true&theme=transparent" alt="Most used programming languages" />
 </p>
 
------
+## Connect
+
+- **Portfolio:** https://rizeforge.com
+- **GitHub:** https://github.com/rizqyn9
+- **LinkedIn:** https://linkedin.com/in/rizqynugroho9
+- **Email:** rizqynugroho9@gmail.com
